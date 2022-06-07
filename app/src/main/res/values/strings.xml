@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TTbytes</string>
+    <string name="reload_button_app_bar">Reload</string>
+    <string name="news_title">22 Bytes News</string>
+    <string name="author">Author</string>
+    <string name="dot">•</string>
+    <string name="source">source</string>
+    <string name="time_ago">time ago</string>
+    <string name="title">Title</string>
+    <string name="load_error">The network connection was lost.</string>
+    <string name="request_error">Too Many Request (limit 100 posts)</string>
+    <string name="try_again">try again</string>
+    <string name="news_image">news image</string>
+
+</resources>
