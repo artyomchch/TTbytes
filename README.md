@@ -7,7 +7,7 @@
 Выполнял задание около 6 часов.
 
 
-<img src="source/app.gif" alt="drawing" height="500"/>
+<img src="source/app (2).gif" alt="drawing" height="500"/>
 
 
 
