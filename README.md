@@ -6,7 +6,7 @@
 
 
 <img src="source/app.gif" alt="drawing" height="500"/>
-<img src="source/video.mp4"/>
+
 
 
 
